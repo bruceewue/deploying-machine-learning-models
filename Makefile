@@ -1,5 +1,5 @@
-NAME=udemy-ml-api
-COMMIT_ID=$(shell git rev-parse HEAD)
+NAME=bruce-mlapi
+#COMMIT_ID=$(shell git rev-parse HEAD)
 
 
 build-ml-api-heroku:
